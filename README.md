@@ -2,9 +2,6 @@
 -**Here's a candy clicker that I made :) I hope you like it!**
 - https://kg-09-creator.github.io/candy-clicker._./
   
-**Software Used**
-I used HTML to construct the webpage, CSS, to style it, and JS to make the clicker and powerups. 
-
 **How to Use**
 - Just start clicking the candy! As you make more money, you can buy powerups to help increase your click count and the money you generate per click. You can use these to buy more powerups and boost your high score! You can use the powerups and keep clicking to make infinite money hehe - but see if there's a limit to how rich you can get...?
 
@@ -18,7 +15,10 @@ I used HTML to construct the webpage, CSS, to style it, and JS to make the click
   2) Candy Factory - auto-clicks for you at the same rate of money you currently make(owning one of this powerup makes you $1 per click, owning two makes you $2 per click, owning three makes you $3 per click, etc.)(PER CLICK MEANING PER AUTOMATIC CLICK FROM THIS POWERUP)
   - ok that sounds kinda confusing but think of it this way: if you have one Sugar Rush activated, you make x2 money per click, meaning $2 at this stage but ONLY when you manually click this button or the Sugar Rush powerup clicks it for you. if you only own one Candy Factory, it makes $1 per click WITHOUT you doing anything - meaning you could just sit there and not touch the keyboard and it would make money for you. Combine these and the possibilities are endless...!
  
-  - honestly just start clicking, you'll figure it out <3 
+  - honestly just start clicking and buying things, you'll figure it out <3 
+
+**Software Used**
+- I used HTML to construct the webpage, CSS, to style it, and JS to make the clicker and powerups. 
 
 **Motivation**
 - I was just bored and thought it would be cool to make a clicker game :)
