@@ -12,7 +12,7 @@
   
 **Powerups explained:**
 - 1)**Sugar Rush** - doubles the money you make per click x 2(PER CLICK MEANING EITHER YOU MANUALLY CLICK OR CANDY FACTORY AUTO-CLICKS - DOES NOT AUTOMATICALLY GENERATE MONEY)
-  2)**Candy Factory** - auto-clicks for you at the same rate of money you currently make(owning one of this powerup makes you $1 per click, owning two makes you $2 per click, owning three makes you $3 per click, etc.)(PER CLICK MEANING PER AUTOMATIC CLICK FROM THIS POWERUP)
+- 2)**Candy Factory** - auto-clicks for you at the same rate of money you currently make(owning one of this powerup makes you $1 per click, owning two makes you $2 per click, owning three makes you $3 per click, etc.)(PER CLICK MEANING PER AUTOMATIC CLICK FROM THIS POWERUP)
   - ok that sounds kinda confusing but think of it this way: if you have one Sugar Rush activated, you make x2 money per click, meaning $2 at this stage but ONLY when you manually click this button or the Sugar Rush powerup clicks it for you. if you only own one Candy Factory, it makes $1 per click WITHOUT you doing anything - meaning you could just sit there and not touch the keyboard and it would make money for you. Combine these and the possibilities are endless...!
  
   - honestly just start clicking and buying things, you'll figure it out <3 
