@@ -3,7 +3,7 @@
 - https://kg-09-creator.github.io/candy-clicker._./
   
 **How to Use**
-- Just start clicking the candy! As you make more money, you can buy powerups to help increase your click count and the money you generate per click. You can use these to buy more powerups and boost your high score! You can use the powerups and keep clicking to make infinite money hehe - but see if there's a limit to how rich you can get...?
+- Just start clicking the candy! As you make more money, you can buy powerups to help increase the money you generate per click. You can use these to buy more powerups and boost your high score! You can use the powerups and keep clicking to make infinite money hehe - or find out if there's a limit to how rich you can get...?
 
 # Features
 - clickable candy that boosts your income by 1(without powerups) each time you click on it
