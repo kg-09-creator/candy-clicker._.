@@ -7,7 +7,7 @@
 
 # Features
 - clickable candy that boosts your income by 1(without powerups) each time you click on it
-- two powerups
+- two powerups that help you gain money faster
 - floating price numbers each time money is made on click
   
 **Powerups explained:**
